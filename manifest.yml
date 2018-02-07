@@ -4,4 +4,4 @@ applications:
   memory: 1GB
   instances: 1
   random-route: true
-  buildpack: java_buildpack
+  path: ./spring-music-war
